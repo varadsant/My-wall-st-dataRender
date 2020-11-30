@@ -1,0 +1,12 @@
+.meteorTable-wrapper{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.meteorTable-title{
+    display: flex;
+    justify-content: center;
+}
+.table{
+    min-width: 650px;
+}
